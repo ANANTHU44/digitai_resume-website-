@@ -10,7 +10,7 @@ def load_lottieurl(url):
    if r.status_code != 200 :
       return None
    return r.json()
-img_cont1=Image.open(r"https://github.com/ANANTHU44/digitai_resume-website-/blob/master/20220908170633_IMG_5313%20(1).jpg")
+img_cont1=Image.open(r"20220908170633_IMG_5313 (1).jpg")
 lts="https://assets5.lottiefiles.com/packages/lf20_fcfjwiyb.json"
 lts1="https://lottie.host/51b154e1-df22-473a-a0e1-13c96883d539/jyCJY0Wos7.json"
 lts2="https://lottie.host/0b4926f6-9d89-4e5d-ae24-17ba789878c7/TjTuepPqyP.json"
