@@ -21,7 +21,7 @@ with st.container():
    st.subheader("Hi I am Ananthu k s :wave:")
    st.title("Data Analyst from india")
    
-   st.write("Dynamic and skilled data scientist with comprehensive knowledge and expertise in diverse machine learningalgorithms. Seeking a position on the Data Analytics team to apply my proficiency in Python programming, dataanalysis, and machine learning techniques. Committed to delivering insightful and actionable reports, I aim tocontribute to complex reporting tasks, generating valuable information for customers")
+   st.write("Dynamic and skilled data scientist with comprehensive knowledge and expertise in diverse machine learning algorithms. Seeking a position on the Data Analytics team to apply my proficiency in Python programming, data analysis, and machine learning techniques. Committed to delivering insightful and actionable reports, I aim to contribute to complex reporting tasks, generating valuable information for customers")
    st.write("---")
    st.write("[ Visit my linked in profile>](https://www.linkedin.com/in/ananthu-k-s/)")
    st.write("[Visit my github profile](https://github.com/ANANTHU44)")
