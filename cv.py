@@ -19,7 +19,7 @@ with st.container():
   with left_column:
     
    st.subheader("Hi I am Ananthu k s :wave:")
-   st.title("Data Analyst from india")
+   st.title("Data Scientist from india")
    
    st.write("Dynamic and skilled data scientist with comprehensive knowledge and expertise in diverse machine learning algorithms. Seeking a position on the Data Analytics team to apply my proficiency in Python programming, data analysis, and machine learning techniques. Committed to delivering insightful and actionable reports, I aim to contribute to complex reporting tasks, generating valuable information for customers")
    st.write("---")
